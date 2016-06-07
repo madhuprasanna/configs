@@ -1,11 +1,12 @@
 {
+	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"caret_extra_width": 2,
 	"caret_style": "phase",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Color Scheme - Default/Zenburnesque.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Choco.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Meslo LG S DZ",
+	"font_face": "Mononoki",
 	"font_options":
 	[
 		"gray_antialias",
